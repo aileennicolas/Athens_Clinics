@@ -1,0 +1,14 @@
+var json_Clinics_0 = {
+"type": "FeatureCollection",
+"name": "Clinics_0",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Clinic": "Mercy Clinic", "Free or Sliding Scale": "Free", "Website": "http:\/\/mercyhealthcenter.net\/", "Phone Number": "706-425-4044 Tuesdays from 4pm-5pm", "Hours": "M-F 8:30am-4:30pm, extended until 8pm T\/W\/Tr", "Address": "700 Oglethorpe Avenue Suite C7, Athens GA 30606" }, "geometry": { "type": "Point", "coordinates": [ -83.412337, 33.962975 ] } },
+{ "type": "Feature", "properties": { "Clinic": "SHIFA", "Free or Sliding Scale": "Free", "Website": "https:\/\/www.facebook.com\/ShifaClinicATH\/", "Phone Number": "706-850-4588", "Hours": "S- 11am-2pm", "Address": "435 Hawthorne Avenue Suite 600, Athens GA 30606" }, "geometry": { "type": "Point", "coordinates": [ -83.412752, 33.956736 ] } },
+{ "type": "Feature", "properties": { "Clinic": "Athens Nurses Clinic", "Free or Sliding Scale": "Free", "Website": "http:\/\/athensnursesclinic.org\/wp\/", "Phone Number": "706-613-6976", "Hours": "M-Tr 8:00am-1pm", "Address": "240 North Avenue, Athens GA 30601" }, "geometry": { "type": "Point", "coordinates": [ -83.365983, 33.971976 ] } },
+{ "type": "Feature", "properties": { "Clinic": "Athens Neighborhood Health Center- East", "Free or Sliding Scale": "Sliding Scale", "Website": "http:\/\/www.athensneighborhoodhealth.com\/index.html", "Phone Number": "706-543-1145", "Hours": "M, W, Tr 8:00am-5:00pm; T 8:00am-7:00pm, F 8:00am-2:00pm", "Address": "402 McKinley Drive, Athens GA 30601" }, "geometry": { "type": "Point", "coordinates": [ -83.355193, 33.958957 ] } },
+{ "type": "Feature", "properties": { "Clinic": "Athens Neighborhood Health Center- Central", "Free or Sliding Scale": "Sliding Scale", "Website": "http:\/\/www.athensneighborhoodhealth.com\/index.html", "Phone Number": "706-546-5526", "Hours": "M, W, Tr 8:00am-5:00pm; T 8:00am-7:00pm, F 8:00am-2:00pm", "Address": "675 College Avenue, Athens GA 30601" }, "geometry": { "type": "Point", "coordinates": [ -83.377469, 33.96292 ] } },
+{ "type": "Feature", "properties": { "Clinic": "Piedmont Athens Regional Community Care Clinic", "Free or Sliding Scale": "Sliding Scale", "Website": "https:\/\/www.piedmont.org\/locations\/location-details?practice=1266", "Phone Number": "706-475-7-55", "Hours": "M-Tr 8:30am-5pm, F 8:30am-12:00pm", "Address": "1270 Prince Avenue Suite 201, Athens GA 30606" }, "geometry": { "type": "Point", "coordinates": [ -83.399414, 33.963374 ] } },
+{ "type": "Feature", "properties": { "Clinic": "Community Internal Medicine of Athens", "Free or Sliding Scale": "Sliding Scale", "Website": "https:\/\/www.cimathens.com\/", "Phone Number": "706-389-3875", "Hours": "24\/7", "Address": "1500 Oglethorpe Avenue Suite 200C, Athens GA 30606" }, "geometry": { "type": "Point", "coordinates": [ -83.405212, 33.947815 ] } }
+]
+}
